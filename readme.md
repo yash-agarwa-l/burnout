@@ -2,6 +2,8 @@
 
 This project aims to predict the **Lap Time (in seconds)** for MotoGP riders using historical race data and engineered features. The solution leverages LightGBM for efficient regression modeling with proper handling of categorical data and domain-specific features.
 
+https://www.kaggle.com/code/yashagarwal6/notebook6fd79a30791
+
 ---
 
 ## 📂 Dataset Description
