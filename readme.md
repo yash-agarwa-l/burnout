@@ -53,3 +53,5 @@ Key derived features:
 1. **Install dependencies** (if running locally):
    ```bash
    pip install pandas numpy lightgbm scikit-learn
+## Kaggle link
+- https://www.kaggle.com/code/mishikasardana/burnout-hackathon-1
